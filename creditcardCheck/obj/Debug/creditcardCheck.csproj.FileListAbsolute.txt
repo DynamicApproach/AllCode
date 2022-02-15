@@ -1,0 +1,10 @@
+C:\Users\Thomas\RiderProjects\creditcardCheck\bin\Debug\creditcardCheck.exe.config
+C:\Users\Thomas\RiderProjects\creditcardCheck\bin\Debug\creditcardCheck.exe
+C:\Users\Thomas\RiderProjects\creditcardCheck\bin\Debug\creditcardCheck.pdb
+C:\Users\Thomas\RiderProjects\creditcardCheck\obj\Debug\creditcardCheck.csprojAssemblyReference.cache
+C:\Users\Thomas\RiderProjects\creditcardCheck\obj\Debug\creditcardCheck.Properties.Resources.resources
+C:\Users\Thomas\RiderProjects\creditcardCheck\obj\Debug\creditcardCheck.csproj.GenerateResource.cache
+C:\Users\Thomas\RiderProjects\creditcardCheck\obj\Debug\creditcardCheck.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\RiderProjects\creditcardCheck\obj\Debug\creditcardCheck.exe
+C:\Users\Thomas\RiderProjects\creditcardCheck\obj\Debug\creditcardCheck.pdb
+C:\Users\Thomas\RiderProjects\creditcardCheck\obj\Debug\creditcardCheck.CreditForm.resources

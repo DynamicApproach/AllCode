@@ -1,0 +1,6 @@
+C:\Users\Thomas\RiderProjects\TestScoreList\TestScoreList\bin\Debug\TestScoreList.exe
+C:\Users\Thomas\RiderProjects\TestScoreList\TestScoreList\bin\Debug\TestScoreList.pdb
+C:\Users\Thomas\RiderProjects\TestScoreList\TestScoreList\obj\Debug\TestScoreList.csprojAssemblyReference.cache
+C:\Users\Thomas\RiderProjects\TestScoreList\TestScoreList\obj\Debug\TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\RiderProjects\TestScoreList\TestScoreList\obj\Debug\TestScoreList.exe
+C:\Users\Thomas\RiderProjects\TestScoreList\TestScoreList\obj\Debug\TestScoreList.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thomas\RiderProjects\ConvertMilesToKilometers\obj\Debug\ConvertMilesToKilometers.csprojAssemblyReference.cache
+C:\Users\Thomas\RiderProjects\ConvertMilesToKilometers\obj\Debug\ConvertMilesToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\RiderProjects\ConvertMilesToKilometers\bin\Debug\ConvertMilesToKilometers.exe
+C:\Users\Thomas\RiderProjects\ConvertMilesToKilometers\bin\Debug\ConvertMilesToKilometers.pdb
+C:\Users\Thomas\RiderProjects\ConvertMilesToKilometers\obj\Debug\ConvertMilesToKilometers.exe
+C:\Users\Thomas\RiderProjects\ConvertMilesToKilometers\obj\Debug\ConvertMilesToKilometers.pdb
