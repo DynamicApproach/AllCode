@@ -1,0 +1,3 @@
+Here is    an example input file!
+Any sequence of non-space characters such as XYZ123- should 
+be interpreted as one word.

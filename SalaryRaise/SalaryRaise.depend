@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1423068304 source:c:\users\tc3student\desktop\programming3\salaryraise\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+

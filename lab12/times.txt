@@ -1,0 +1,13 @@
+//gcc random_semaphore_lock.c -o random_semaphore_lock -g -Wall -lpthread
+// ❯ time ./random_semaphore_lock
+// sum = 4495864
+// ./random_semaphore_lock  0.02s user 0.05s system 191% cpu 0.033 total
+
+//  time ./a.out
+// sum = 4496952
+// ./a.out  0.08s user 0.12s system 168% cpu 0.121 total
+
+Random thread is missing information because threads attempt to change the memory while already being accessed 
+
+Task 3 is only locking once compared to swapping locks every time 
+Hence it runs in .02 instead of .08 seconds. 
