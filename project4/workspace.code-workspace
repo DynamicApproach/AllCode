@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "project4",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tpl": "smarty",
+			"inet.h": "c",
+			"sp-server-functions.h": "c"
+		}
+	}
+}
