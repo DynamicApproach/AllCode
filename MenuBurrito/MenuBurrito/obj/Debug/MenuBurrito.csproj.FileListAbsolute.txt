@@ -1,0 +1,9 @@
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\bin\Debug\MenuBurrito.exe.config
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\bin\Debug\MenuBurrito.exe
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\bin\Debug\MenuBurrito.pdb
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\obj\Debug\MenuBurrito.csprojAssemblyReference.cache
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\obj\Debug\MenuBurrito.Properties.Resources.resources
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\obj\Debug\MenuBurrito.csproj.GenerateResource.cache
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\obj\Debug\MenuBurrito.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\obj\Debug\MenuBurrito.exe
+C:\Users\Thomas\RiderProjects\MenuBurrito\MenuBurrito\obj\Debug\MenuBurrito.pdb

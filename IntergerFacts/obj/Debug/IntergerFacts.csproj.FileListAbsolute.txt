@@ -1,0 +1,6 @@
+C:\Users\Thomas\RiderProjects\IntergerFacts\obj\Debug\IntergerFacts.csprojAssemblyReference.cache
+C:\Users\Thomas\RiderProjects\IntergerFacts\obj\Debug\IntergerFacts.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\RiderProjects\IntergerFacts\bin\Debug\IntergerFacts.exe
+C:\Users\Thomas\RiderProjects\IntergerFacts\bin\Debug\IntergerFacts.pdb
+C:\Users\Thomas\RiderProjects\IntergerFacts\obj\Debug\IntergerFacts.exe
+C:\Users\Thomas\RiderProjects\IntergerFacts\obj\Debug\IntergerFacts.pdb

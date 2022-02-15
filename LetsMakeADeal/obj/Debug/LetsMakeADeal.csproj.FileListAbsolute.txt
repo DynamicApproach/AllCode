@@ -1,0 +1,10 @@
+C:\Users\Thomas\source\repos\LetsMakeADeal\bin\Debug\LetsMakeADeal.exe.config
+C:\Users\Thomas\source\repos\LetsMakeADeal\bin\Debug\LetsMakeADeal.exe
+C:\Users\Thomas\source\repos\LetsMakeADeal\bin\Debug\LetsMakeADeal.pdb
+C:\Users\Thomas\source\repos\LetsMakeADeal\obj\Debug\LetsMakeADeal.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\LetsMakeADeal\obj\Debug\LetsMakeADeal.Form1.resources
+C:\Users\Thomas\source\repos\LetsMakeADeal\obj\Debug\LetsMakeADeal.Properties.Resources.resources
+C:\Users\Thomas\source\repos\LetsMakeADeal\obj\Debug\LetsMakeADeal.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\LetsMakeADeal\obj\Debug\LetsMakeADeal.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\LetsMakeADeal\obj\Debug\LetsMakeADeal.exe
+C:\Users\Thomas\source\repos\LetsMakeADeal\obj\Debug\LetsMakeADeal.pdb

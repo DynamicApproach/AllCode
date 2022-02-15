@@ -1,0 +1,6 @@
+C:\Users\Thomas\RiderProjects\Lottery\Lottery\bin\Debug\Lottery.exe
+C:\Users\Thomas\RiderProjects\Lottery\Lottery\bin\Debug\Lottery.pdb
+C:\Users\Thomas\RiderProjects\Lottery\Lottery\obj\Debug\Lottery.csprojAssemblyReference.cache
+C:\Users\Thomas\RiderProjects\Lottery\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\RiderProjects\Lottery\Lottery\obj\Debug\Lottery.exe
+C:\Users\Thomas\RiderProjects\Lottery\Lottery\obj\Debug\Lottery.pdb
