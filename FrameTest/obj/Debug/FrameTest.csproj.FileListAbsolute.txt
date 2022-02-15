@@ -1,0 +1,10 @@
+C:\Users\Thomas\source\repos\FrameTest\bin\Debug\FrameTest.exe.config
+C:\Users\Thomas\source\repos\FrameTest\bin\Debug\FrameTest.exe
+C:\Users\Thomas\source\repos\FrameTest\bin\Debug\FrameTest.pdb
+C:\Users\Thomas\source\repos\FrameTest\obj\Debug\FrameTest.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\FrameTest\obj\Debug\FrameTest.Form1.resources
+C:\Users\Thomas\source\repos\FrameTest\obj\Debug\FrameTest.Properties.Resources.resources
+C:\Users\Thomas\source\repos\FrameTest\obj\Debug\FrameTest.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\FrameTest\obj\Debug\FrameTest.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\FrameTest\obj\Debug\FrameTest.exe
+C:\Users\Thomas\source\repos\FrameTest\obj\Debug\FrameTest.pdb
