@@ -23,7 +23,7 @@ namespace DiscordTest
         {
             discord = new DiscordClient(new DiscordConfiguration()
             {
-                Token = "NzcxNTMxOTAwNTIzMTE4NjA3.X5tfEw.GNHu5MCkE1FfOcL1reoqryX98Qo",
+                Token = "..",
                 TokenType = DSharpPlus.TokenType.Bot,
                     LogTimestampFormat = "MMM dd yyyy - hh:mm:ss tt",
                         MinimumLogLevel = LogLevel.Debug
