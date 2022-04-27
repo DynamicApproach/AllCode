@@ -159,10 +159,7 @@ main:
 
 
 #########################
-
-	
-# Exit program
-	continue:
+continue:
     li $v0, 4 # print string
 	la $a0, postfix # print postfix
 	syscall
