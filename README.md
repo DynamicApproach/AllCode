@@ -16,54 +16,105 @@ Below is a list of each file and their general description.
 I will update this over time as I remember although most are self-descriptive:
 
 Arrayslab
+
 BasicArea - Basic area computation
+
 BigLab 
+
 BlackjackGame 
+
 CHAP11
+
 CSI412-Assignment4-ThomasLloyd-Jones-Fall22
+
 CardGame
+
 ConvertMilesToKilometers 
+
 Creature - Creature class edit based on provided files
+
 DiscArdFull - Discord "pager"
+
 Euler549 - Random website challenge
+
 Exercise13_15
+
 FileToBin
+
 FrameTest
+
 GPACalc 
+
 GuyGame
+
 InputMethodDemo2
+
 IntergerFacts
+
 Lab2
+
 Lab5
+
 LabCountOn
+
 LearnProject
+
 LetsMakeADeal
+
 Lottery
+
 MagicSquare
+
 Maze23
+
 MazeSolverFinal - Solves maze based on text maze
+
 MenuBurrito
+
 SalaryRaise
+
 Stapler
+
 SumFun
+
 TestCount
+
 TestScoreList
+
 ball
+
 creditcardCheck
+
 lab06
+
 lab07
+
 lab09
+
 lab10
+
 lab11
+
 lab12
+
 lab13
+
 lab8
+
 network/inclass-network
+
 project2
+
 project3
+
 project4
+
 semaphore - Semaphore assignment
+
 MultiExec.c
+
 assignment4
+
 calcmain.asm
+
 MIPS assembly calc 
